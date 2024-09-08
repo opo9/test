@@ -69,7 +69,7 @@
         ],
         "post-update-cmd": [
             "@auto-scripts"
-        ],
+        ]
     },
     "conflict": {
         "symfony/symfony": "*"
